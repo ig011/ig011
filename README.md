@@ -36,5 +36,5 @@ I am currently working as an automation engineer. My tasks include programming P
 
 <details> 
   <summary>:zap: My GitHub stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ig011&show_icons=true&hide_border=true" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ig011" />
 </details>
