@@ -3,7 +3,7 @@
 
 I'm trying to learn as much as possible in high and low level programming. Got knowledge in signal processing and high frequency modulation in converter devices (AC/DC, DC/DC, DC/AC). Mainly using languages such as C/C++/C#/Python.
 
-I am currently working as an automation engineer. My tasks include programming PLC controllers and SCADA systems, drawing electrical diagrams and connecting devices. I would like to develop myself in the field of web application development (Fullstack using Flask, Django and React).
+I would like to develop myself in the field of web application development (Fullstack using Flask, Django and React).
 
 ## Something more
 - 🥅 I'm currently working on IoT devices connected to a single WiFi network 
