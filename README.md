@@ -9,7 +9,7 @@ I would like to develop myself in the field of web application development (Full
 - 🥅 I'm currently working on IoT devices connected to a single WiFi network 
 - 🍁 I'm currently learning web-developing with React, Django, Flask 😎
 - 📱 I'm looking to collaborate with other programmers -> want to learn more ❗
-- 🔦 Hobbys: I like martial arts 🥋, playing guitar 🎸, singing 🎙️
+- 🔦 Hobbys: I like martial arts 🥋, playing guitar 🎸, singing 🎙️, roller skating 🛼
 
 ### Languages and tools:
 
