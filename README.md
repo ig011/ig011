@@ -1,9 +1,9 @@
 ## Hi, I'm Igor! 🙂
 ### I'm electrical engineer with master's degree focused on energy conversion and motor control systems
 
-I'm trying to learn as much as possible in high and mid level programming. Got knowledge in signal processing and high frequency modulation in converter devices (AC/DC, DC/DC, DC/AC). Mainly using languages such as C/C++/C#/Python.
+I'm trying to learn as much as possible in high and mid level programming. Got knowledge in signal processing and high frequency modulation in converter devices (AC/DC, DC/DC, DC/AC). Mainly using languages such as C/C#/Python.
 
-I would like to develop myself in the field of web application development (Fullstack using Flask, Django, FastAPI and React).
+I would like to develop myself in the field of web application development (Fullstack using Flask, Django, FastAPI and React) and Machine Learning.
 
 ## Something more
 - 🥅 I'm currently working on IoT devices AWD (Automatic Watering Device) 
