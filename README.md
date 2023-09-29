@@ -13,8 +13,6 @@ I would like to develop myself in the field of web application development (Full
 
 ### Languages and tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pnglib.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fpycharm-logo_5f33f6fdb32e6.png&f=1&nofb=1" />
 <img align="left" alt="STM32CubeIDE" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdl.flathub.org%2Frepo%2Fappstream%2Fx86_64%2Ficons%2F128x128%2Fcom.st.STM32CubeIDE.png&f=1&nofb=1" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
